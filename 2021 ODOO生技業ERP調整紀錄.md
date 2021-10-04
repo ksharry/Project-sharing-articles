@@ -75,5 +75,5 @@
    + 根據第一次導入來說，算是非常順利，感謝客戶能內部進行協調，也能相信顧問的專業，真的事前結帳真的是能增加大大的信心，也感謝元植林顧問的支援ODOO的諮詢，共同討論的好戰友。
    + ERP的功能調整就本次來說，突破了滿多原生與額外的功能，戰力提升滿多的，感謝先傑電腦-Ching與大河的技術諮詢。
    + 附圖-2020年元植技術班精實上課的圖片
-![Alt text](https://github.com/ksharry/Project-sharing-articles.md/blob/main/png/3.5.1.png?raw=true)
-![Alt text](https://github.com/ksharry/Project-sharing-articles.md/blob/main/png/3.5.2.png?raw=true)
+![Alt text](https://github.com/ksharry/Project-sharing-articles.md/blob/main/png/3.5.1.jpg?raw=true)
+![Alt text](https://github.com/ksharry/Project-sharing-articles.md/blob/main/png/3.5.2.jpg?raw=true)
