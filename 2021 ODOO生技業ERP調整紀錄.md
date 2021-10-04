@@ -14,7 +14,7 @@
    + 降低長期軟體使用費用
    + 系統操作簡易，可進行客製調整
 4. 導入天數預估:輔導26天、客製10天
-![Alt text](https://github.com/ksharry/專案分享/blob/main/png/1.1.png?raw=true)
+![Alt text](https://github.com/ksharry/專案分享文章/blob/main/png/3.1.1.png?raw=true)
 ## 第二章 上線模組與參數設定
 1. 銷售、採購、製造、庫存、會計
 2. 成本計價:移動平均成本(anglo saxon)
@@ -45,8 +45,8 @@
    + 提供料號、BOM表、廠商/客戶的匯入格式
    + 協助規劃產品類別與相關設定
    + 建議編碼方式與設定
-![Alt text](https://github.com/ksharry/專案分享/blob/main/png/3.1.png?raw=true)
-![Alt text](https://github.com/ksharry/專案分享/blob/main/png/3.2.png?raw=true)
+![Alt text](https://github.com/ksharry/專案分享文章/blob/main/png/3.3.1.png?raw=true)
+![Alt text](https://github.com/ksharry/專案分享文章/blob/main/png/3.3.2.png?raw=true)
 ## 第四章 專案文件與導入成果
 1. 專案文件:
    + 專案規畫書(甘特圖)
@@ -75,5 +75,5 @@
    + 根據第一次導入來說，算是非常順利，感謝客戶能內部進行協調，也能相信顧問的專業，真的事前結帳真的是能增加大大的信心，也感謝元植林顧問的支援ODOO的諮詢，共同討論的好戰友。
    + ERP的功能調整就本次來說，突破了滿多原生與額外的功能，戰力提升滿多的，感謝先傑電腦-Ching與大河的技術諮詢。
    + 附圖-2020年元植技術班精實上課的圖片
-![Alt text](https://github.com/ksharry/專案分享/blob/main/png/5.1.png?raw=true)
-![Alt text](https://github.com/ksharry/專案分享/blob/main/png/5.2.png?raw=true)
+![Alt text](https://github.com/ksharry/專案分享文章/blob/main/png/3.5.1.png?raw=true)
+![Alt text](https://github.com/ksharry/專案分享文章/blob/main/png/3.5.2.png?raw=true)
