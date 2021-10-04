@@ -58,7 +58,7 @@
 2. 導入成果:
    + 協助兩個月平行上線，並順利結帳，約莫等Netsuit結完後結ODOO，約15號左右完成結帳，兩套核對差異不大。
    + 第三個月自行結帳，關心情況後約月初已完成。
-![Alt text](https://github.com/ksharry/Project-sharing-articles.md/blob/main/png/3..1.png?raw=true)
+![Alt text](https://github.com/ksharry/Project-sharing-articles.md/blob/main/png/3.4.1.png?raw=true)
 ## 第五章 專案導入後心得
 1. 優點:
    + 客戶從2021/10月份後，僅支付每個月GCP的雲端費用，非常適合中小企業使用。
