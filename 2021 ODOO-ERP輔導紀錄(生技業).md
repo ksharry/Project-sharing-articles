@@ -1,6 +1,6 @@
 <table>
     <tr>
-        <td>ODOO-ERP紀錄(生技業)</td>
+        <td>ODOO-ERP輔導紀錄(生技業)</td>
     </tr>
 </table>
 
