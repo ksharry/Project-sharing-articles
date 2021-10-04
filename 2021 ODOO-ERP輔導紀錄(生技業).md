@@ -72,8 +72,8 @@
    + 製費與人工的分攤需使用預估的方式
 3. 導入心得
    + 大型ERP導入流程不太適合導入ODOO，需進行調整，本案課程與個案開發採用較敏捷的方式，設定迭代時間為每周，隨時調整與討論，提前準備，更能掌握專案進度。
-   + 根據第一次導入來說，算是非常順利，感謝客戶能內部進行協調，遇到問題也感謝元植林顧問的火力支援ODOO的諮詢，共同討論的好戰友。
-   + ERP的功能調整就本次來說，突破了滿多原生與額外的功能，戰力提升滿多的，感謝先傑電腦-Ching與大河的技術諮詢。
+   + 導入過程相對順利，感謝客戶能內部進行協調，遇到問題也感謝元植林顧問的火力支援ODOO的諮詢，共同討論的好戰友。
+   + ERP的增加系統較常使用的功能，戰力與ODOO架構的觀念提升滿多的，感謝先傑電腦-Ching與大河的技術諮詢。
    + 附圖-2020年元植技術班精實上課的圖片
 ![Alt text](https://github.com/ksharry/Project-sharing-articles.md/blob/main/png/3.5.1.jpg?raw=true)
 ![Alt text](https://github.com/ksharry/Project-sharing-articles.md/blob/main/png/3.5.2.jpg?raw=true)
