@@ -4,10 +4,10 @@
     </tr>
 </table>
 
-## 第零章 源始
+## 客戶環境說明
   >  2021年初進行專案規劃，客戶本身沒有資訊人員，原使用Oracle的Netsuit軟體，已經有雲端系統的系統上線經驗，公司規模人數約在20-30人左右，導入ODOO13社群版。
 
-## 第一章 專案時程與目的
+## 專案時程與目的
 1. 專案時程:2021/03-2021/09
 2. 專案上線:2021/07
 3. 專案目的:
@@ -15,14 +15,14 @@
    + 系統操作簡易，可進行客製調整
 
 ![Alt text](https://github.com/ksharry/Project-sharing-articles.md/blob/main/png/3.1.1.png?raw=true)
-## 第二章 上線模組與參數設定
+## 上線模組與參數設定
 1. 模組:銷售、採購、製造、庫存、會計
 2. 成本計價:移動平均成本(anglo saxon)
 3. 庫存計價:自動
 4. 批號管理
 5. 製造:三步
 
-## 第三章 流程導入
+## 流程導入
 1. 已製作SOP說明:
    + 銷售：5份流程文件
    + 採購：5份流程文件
@@ -47,7 +47,7 @@
    + 建議編碼方式與設定
 ![Alt text](https://github.com/ksharry/Project-sharing-articles.md/blob/main/png/3.3.1.png?raw=true)
 ![Alt text](https://github.com/ksharry/Project-sharing-articles.md/blob/main/png/3.3.2.png?raw=true)
-## 第四章 專案文件與導入成果
+## 專案文件與導入成果
 1. 專案文件:
    + 專案規畫書(甘特圖)
    + 細部行程表(日歷)
@@ -59,7 +59,7 @@
    + 協助兩個月平行上線，並順利結帳，約10號Netsuit結完後，約15號ODOO結帳完成，虛實科目總額相同，銷貨成本略有差異。
    + 第三個月自行結帳，2021/10月初關心情況後，10/1號試結完成，約10號可完成結帳。
 ![Alt text](https://github.com/ksharry/Project-sharing-articles.md/blob/main/png/3.4.1.png?raw=true)
-## 第五章 專案導入後心得
+## 專案導入後心得
 1. 優點:
    + 客戶從2021/10月份後，僅支付每個月GCP的雲端費用，非常適合中小企業使用。
    + 未來如需要再優化，可招聘資訊人員或委外進行客製，彈性配置人力。
