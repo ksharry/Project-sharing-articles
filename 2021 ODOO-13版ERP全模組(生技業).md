@@ -1,6 +1,6 @@
 <table>
     <tr>
-        <td>ODOO-ERP輔導紀錄(生技業)</td>
+        <td>ODOO-13版ERP全模組(生技業)</td>
     </tr>
 </table>
 
