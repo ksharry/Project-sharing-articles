@@ -7,11 +7,11 @@
 ## 加入課程源由
   >  透過進良介紹，參加總統盃黑客松的決賽隊伍中，由哈爸組隊參加的喝好水 吃好物 有良居獲得[卓越團隊](https://presidential-hackathon.taiwan.gov.tw/NewsDetail1115.aspx)後，於賽後網路視訊課程進行專題內容分享，並公開課程進行報名。
 
-## 課程時程
+## 哈爸課程時程與目的
 1. 課程時程:2021/11-25-2022/03/02(每兩周周四)，共八堂
 2. 課程時間:19:00-21:00
 3. 參與報名人數:25+
-4. 哈爸課程目的:
+4. 課程目的:
    + 以培養流域複製時，在地流域所需要的資訊人員技能
    + 希望 NGO 能多學點資料處理，方便相關論述的進行
    + 覺得開放資料都沒有相關的課程
@@ -19,7 +19,7 @@
    + 可能很多人學了資料處理的課程，學完後學的技能實際還是用不太出來
 5. 參加第一堂的學員合照
 ![Alt text](https://github.com/ksharry/Project-sharing-articles.md/blob/main/png/4.2.1.png?raw=true)
-## 課程資源與架構
+## 課程資源與課程目錄
 1. 課程文件
    + [課程文件](https://docs.google.com/document/d/1HU4JFyY1BFhG0hQs6kAIC4TwS-nYSjiDAVPL_pJLHrs/edit)
    + [實際交流](https://docs.google.com/document/d/1WxHl9EAEeeu3Lvo7ft0Y0GyChi0k1uc0R9R1ekHFFvI/edit#heading=h.5zt9eqvcenbs)
@@ -28,7 +28,7 @@
    + [課後錄影檔報名連結](https://docs.google.com/forms/d/e/1FAIpQLSc15zyJJ49kSdRDBeumtStrqgYhSqggDoW5oC-618Sfzh0OfQ/viewform)
    + 下圖為自開水V0.0.3的QGIS畫面截圖
 ![Alt text](https://github.com/ksharry/Project-sharing-articles.md/blob/main/png/4.3.1.png?raw=true)
-2. 課程架構
+2. 課程目錄
    + 2021/11/25-第一堂:課程說明
    + 2021/12/09-第二堂:政府開放資料介紹
    + 2021/12/23-第三堂:資料處理與QGIS
