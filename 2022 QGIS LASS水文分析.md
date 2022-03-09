@@ -92,7 +92,7 @@
 
 9. 專題-地質敏感區-斷層分析
 
-![Alt text](https://github.com/ksharry/Project-sharing-articles.md/blob/main/png/4.5.7.png?raw=true)
+![Alt text](https://github.com/ksharry/Project-sharing-articles.md/blob/main/png/4.5.7.jpg?raw=true)
 
 ## 專案文件與導入成果
 1. 專案文件:
