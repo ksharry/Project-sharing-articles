@@ -7,23 +7,44 @@
 ## 加入課程源由
   >  透過進良參加總統盃黑客松的決賽隊伍中，由哈爸組隊參加的喝好水 吃好物 有良居獲得[卓越團隊](https://presidential-hackathon.taiwan.gov.tw/NewsDetail1115.aspx)後，於賽後網路視訊課程進行專題內容分享，
 
-## 專案時程與目的
-1. 專案時程:2021/03-2021/09
-2. 專案上線:2021/07
-3. 專案目的:
-   + 降低長期軟體使用費用
-   + 系統操作簡易，可進行客製調整
+## 課程時程
+1. 課程時程:2021/11-25-2022/03/02(每兩周周四)，共八堂
+2. 課程時間:19:00-21:00
+3. 參與報名人數:25+
+4. 參與課程目的:
+   + 學習開放資料使用
+   + QGIS軟體使用
 
-![Alt text](https://github.com/ksharry/Project-sharing-articles.md/blob/main/png/3.1.1.png?raw=true)
-## 上線模組與參數設定
-1. 模組:銷售、採購、製造、庫存、會計
-2. 成本計價:移動平均成本(anglo saxon)
-3. 庫存計價:自動
-4. 批號管理
-5. 製造:三步
+## 課程資源與架構
+1. 課程文件
+   + [課程文件](https://docs.google.com/document/d/1HU4JFyY1BFhG0hQs6kAIC4TwS-nYSjiDAVPL_pJLHrs/edit)
+   + [實際交流](https://docs.google.com/document/d/1WxHl9EAEeeu3Lvo7ft0Y0GyChi0k1uc0R9R1ekHFFvI/edit#heading=h.5zt9eqvcenbs)
+   + [課程投影片](https://docs.google.com/presentation/d/1YDCNoiFyfrw3GE6Eb4XXFc4X2HXqexugHW_mSVSl5us/edit#slide=id.g103394c138b_0_43)
+   + [課後錄影檔報名連結](https://docs.google.com/forms/d/e/1FAIpQLSc15zyJJ49kSdRDBeumtStrqgYhSqggDoW5oC-618Sfzh0OfQ/viewform)
+2. 課程架構
+   + 2021/11/25-第一堂:課程說明
+   + 2021/12/09-第二堂:政府開放資料介紹
+   + 2021/12/23-第三堂:資料處理與QGIS
+   + 2022/01/06-第四堂:寫程式的資料處理
+   + 2022/01/20-第五堂:OpenRefine、PostgreSQL + PostGIS
+   + 2022/01/27-第六堂:grafana、DB programming、GEE
+   + 2022/02/17-第七堂:QGIS進階、QGIS Programming
+   + 2022/03/03-第八堂:期末專題與自學方式分享
+3. 課程中講師影片
+   + [明光影片](https://lass.my.webex.com/recordingservice/sites/lass.my/recording/play/d2f6078407b843a6a0207b1a9dcdbfd9)，7dU84Jpy
+     + [投影片](https://drive.google.com/file/d/1pyHrG3XNmT-E2YtIvIZfGZxKLanHwTf7/view)
+     + [教材](https://drive.google.com/drive/folders/1z1X_eYBNRJ5oSkpkyNl2-OhqjZDqvYBe)
+   + [政道影片](https://lass.my.webex.com/webappng/sites/lass.my/recording/playback/2c6aab8b9f6542c59d1f329255328e05)
+     + [投影片與教材](https://drive.google.com/drive/folders/1ONBwx_vNDPQfUT_WRhcv6WNjrJwGCc_R)
+   + [玫宜影片]()
+4. Harry筆記與作業
+   + [課程筆記](https://docs.google.com/document/d/1G_c2gIpzpmWYv-N2piO93sbxdQ-kINjzeHJMXYw0FVQ/edit)
+   + [專題打包](https://drive.google.com/file/d/1tIBQ89Cml1u7hXa4bT5Is99iWl_gtFT9/view?usp=sharing)
+   + [專題投影片](https://docs.google.com/presentation/d/1340cmBPT_oI-JmgnandPWprr-GRFvwZWzjj0xWVlWv8/edit#slide=id.g117b0b9a445_0_0
+   + [課程練習打包](https://drive.google.com/file/d/1MIfuap8JYh-I6GdLLFq5ZlaBV3pmT6eZ/view?usp=sharing)
 
-## 流程導入
-1. 已製作SOP說明:
+## 作業說明
+1. 作業
    + 銷售：5份流程文件
    + 採購：5份流程文件
    + 生產：10份流程文件
