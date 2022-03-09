@@ -20,6 +20,7 @@
 5. Harry參與課程目的:
    + 學習開放資料使用
    + QGIS軟體使用
+6. 參加第一堂的學員合照
 ![Alt text](https://github.com/ksharry/Project-sharing-articles.md/blob/main/png/4.2.1.png?raw=true)
 ## 課程資源與架構
 1. 課程文件
