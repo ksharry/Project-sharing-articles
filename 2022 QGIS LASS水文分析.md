@@ -20,7 +20,7 @@
 5. Harry參與課程目的:
    + 學習開放資料使用
    + QGIS軟體使用
-
+![Alt text](https://github.com/ksharry/Project-sharing-articles.md/blob/main/png/4.2.1.png?raw=true)
 ## 課程資源與架構
 1. 課程文件
    + [課程文件](https://docs.google.com/document/d/1HU4JFyY1BFhG0hQs6kAIC4TwS-nYSjiDAVPL_pJLHrs/edit)
@@ -28,6 +28,7 @@
    + [課程投影片](https://docs.google.com/presentation/d/1YDCNoiFyfrw3GE6Eb4XXFc4X2HXqexugHW_mSVSl5us/edit#slide=id.g103394c138b_0_43)
    + [自開水V0.0.3](https://drive.google.com/file/d/1UiRiplSDn3f_KNotVTO-SEGbsfH4xamR/view)
    + [課後錄影檔報名連結](https://docs.google.com/forms/d/e/1FAIpQLSc15zyJJ49kSdRDBeumtStrqgYhSqggDoW5oC-618Sfzh0OfQ/viewform)
+![Alt text](https://github.com/ksharry/Project-sharing-articles.md/blob/main/png/4.3.1.png?raw=true)
 2. 課程架構
    + 2021/11/25-第一堂:課程說明
    + 2021/12/09-第二堂:政府開放資料介紹
@@ -61,15 +62,20 @@
 ## 作業說明
 1. 作業二-期末專題發想
 2. 公投情報地圖(請在QGIS 中，做出縣市版本的同意/不同意地圖)
-![Alt text](https://github.com/ksharry/Project-sharing-articles.md/blob/main/png/3.3.1.png?raw=true)
+![Alt text](https://github.com/ksharry/Project-sharing-articles.md/blob/main/png/4.5.1.png?raw=true)
+![Alt text](https://github.com/ksharry/Project-sharing-articles.md/blob/main/png/4.5.2.png?raw=true)
 3. 作業三-QGIS CSV檔案匯入-台北直飲台
+![Alt text](https://github.com/ksharry/Project-sharing-articles.md/blob/main/png/4.5.3.png?raw=true)
 4. 作業四-安裝水文分析系統
 5. 作業五-群眾標記分析
+![Alt text](https://github.com/ksharry/Project-sharing-articles.md/blob/main/png/4.5.4.png?raw=true)
 6. PostGIS 作業
+![Alt text](https://github.com/ksharry/Project-sharing-articles.md/blob/main/png/4.5.5.png?raw=true)
 7. 作業六-DB Programming
 8. 作業七-iNaturalist主題呈現
+![Alt text](https://github.com/ksharry/Project-sharing-articles.md/blob/main/png/4.5.6.png?raw=true)
 9. 專題-地質敏感區-斷層分析
-
+![Alt text](https://github.com/ksharry/Project-sharing-articles.md/blob/main/png/4.5.7.png?raw=true)
 ## 專案文件與導入成果
 1. 專案文件:
 
