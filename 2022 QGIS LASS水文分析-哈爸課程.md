@@ -91,8 +91,8 @@
 
 9. 專題-地質敏感區-斷層分析
 
-![Alt text](https://github.com/ksharry/Project-sharing-articles.md/blob/main/png/4.5.7.jpg?raw=true)
 ![Alt text](https://github.com/ksharry/Project-sharing-articles.md/blob/main/png/4.5.10.png?raw=true)
+![Alt text](https://github.com/ksharry/Project-sharing-articles.md/blob/main/png/4.5.7.jpg?raw=true)
 ![Alt text](https://github.com/ksharry/Project-sharing-articles.md/blob/main/png/4.5.11.png?raw=true)
 
 ## 課程心得
