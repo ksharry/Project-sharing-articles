@@ -17,8 +17,8 @@
    + 覺得開放資料都沒有相關的課程
    + 順便讓想學開放資料處理的夥伴學習
    + 可能很多人學了資料處理的課程，學完後學的技能實際還是用不太出來
-5. 參加第一堂的學員合照
-![Alt text](https://github.com/ksharry/Project-sharing-articles.md/blob/main/png/4.2.1.png?raw=true)
+5. 參加第一堂的學員合照-[哈爸FB連結](https://www.facebook.com/wuulong.hsu/posts/5135009536515423)
+
 ## 課程資源與課程目錄
 1. 課程文件
    + [課程文件](https://docs.google.com/document/d/1HU4JFyY1BFhG0hQs6kAIC4TwS-nYSjiDAVPL_pJLHrs/edit)
