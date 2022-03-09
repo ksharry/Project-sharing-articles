@@ -29,6 +29,7 @@
    + [課程投影片](https://docs.google.com/presentation/d/1YDCNoiFyfrw3GE6Eb4XXFc4X2HXqexugHW_mSVSl5us/edit#slide=id.g103394c138b_0_43)
    + [自開水V0.0.3](https://drive.google.com/file/d/1UiRiplSDn3f_KNotVTO-SEGbsfH4xamR/view)
    + [課後錄影檔報名連結](https://docs.google.com/forms/d/e/1FAIpQLSc15zyJJ49kSdRDBeumtStrqgYhSqggDoW5oC-618Sfzh0OfQ/viewform)
+   + 下圖為自開水V0.0.3的QGIS畫面截圖
 ![Alt text](https://github.com/ksharry/Project-sharing-articles.md/blob/main/png/4.3.1.png?raw=true)
 2. 課程架構
    + 2021/11/25-第一堂:課程說明
@@ -94,6 +95,8 @@
 9. 專題-地質敏感區-斷層分析
 
 ![Alt text](https://github.com/ksharry/Project-sharing-articles.md/blob/main/png/4.5.7.jpg?raw=true)
+![Alt text](https://github.com/ksharry/Project-sharing-articles.md/blob/main/png/4.5.10.jpg?raw=true)
+![Alt text](https://github.com/ksharry/Project-sharing-articles.md/blob/main/png/4.5.11.jpg?raw=true)
 
 ## 課程心得
 1. 當時參加哈爸的課程，就感覺應該不會很容易，因此就設立目標，如參加就要好好完成每一次的課程與作業，也期望自己能不枉費哈爸辛苦的備課。
