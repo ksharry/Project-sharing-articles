@@ -23,13 +23,19 @@
 5. 出貨:兩步
 6. 製造:兩步
 7. IOT整合(機器手臂)、MES整合
+![Alt text](https://github.com/ksharry/Project-sharing-articles.md/blob/main/png/5.2.1.jpg?raw=true)
+![Alt text](https://github.com/ksharry/Project-sharing-articles.md/blob/main/png/5.2.2.jpg?raw=true)
 8. 製造請求、生管下達計畫派工、採購轉料、採購請求
+![Alt text](https://github.com/ksharry/Project-sharing-articles.md/blob/main/png/5.2.3.jpg?raw=true)
 9. 一般事務性申請
+![Alt text](https://github.com/ksharry/Project-sharing-articles.md/blob/main/png/5.2.4.jpg?raw=true)
 10. 人工/製費由製造工單預估產生。
+![Alt text](https://github.com/ksharry/Project-sharing-articles.md/blob/main/png/5.2.5.jpg?raw=true)
+![Alt text](https://github.com/ksharry/Project-sharing-articles.md/blob/main/png/5.2.6.jpg?raw=true)
 11. 固定資產模組使用
+![Alt text](https://github.com/ksharry/Project-sharing-articles.md/blob/main/png/5.2.7.png?raw=true)
 12. 部門與廠別損益表
-![Alt text](https://github.com/ksharry/Project-sharing-articles.md/blob/main/png/4.2.1.png?raw=true)
-![Alt text](https://github.com/ksharry/Project-sharing-articles.md/blob/main/png/4.2.2.png?raw=true)
+![Alt text](https://github.com/ksharry/Project-sharing-articles.md/blob/main/png/5.2.8.png?raw=true)
 
 ## 流程導入
 1. 已製作SOP說明:
