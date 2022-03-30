@@ -24,6 +24,7 @@
 6. 製造:兩步
 7. 機器手臂透過PLM與ODOO的MES整合，在與ODOO ERP整合
 
+![Alt text](https://github.com/ksharry/Project-sharing-articles.md/blob/main/png/5.2.10.png?raw=true)
 ![Alt text](https://github.com/ksharry/Project-sharing-articles.md/blob/main/png/5.2.1.png?raw=true)
 ![Alt text](https://github.com/ksharry/Project-sharing-articles.md/blob/main/png/5.2.2.png?raw=true)
 
