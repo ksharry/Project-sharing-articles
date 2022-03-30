@@ -22,7 +22,7 @@
 4. 多倉庫
 5. 出貨:兩步
 6. 製造:兩步
-7. 機器手臂透過PLM與MES整合，在與ODOO整合(MES也用ODOO製作的)
+7. 機器手臂透過PLM與ODOO的MES整合，在與ODOO ERP整合
 
 ![Alt text](https://github.com/ksharry/Project-sharing-articles.md/blob/main/png/5.2.1.png?raw=true)
 ![Alt text](https://github.com/ksharry/Project-sharing-articles.md/blob/main/png/5.2.2.png?raw=true)
@@ -75,7 +75,7 @@
    + 標準化結帳程序
 
 ## 專案導入後心得
-1. 客戶使用8年ODOO經驗，參觀客戶工廠，機械手臂透過PLM與MES整合，ODOO ERP在整合MES，顯示ODOO在整合的架構的便利性。
+1. 客戶使用8年ODOO經驗，參觀客戶工廠，機械手臂透過PLM與ODOO MES整合，在與ODOO ERP整合，顯示ODOO在整合的架構的便利性。
 2. 因客戶有不同路線與倉庫，製造段增加了生管計料與採購單拋轉路線處理、增加了製造/採購請求工作、品質檢驗、一般事務性流程，增加了許多功能需求。
 3. 此次有版本升級的經驗，過程中調整了許多項目，在短促的時間，增加了上線的風險，更顯得上機模擬的重要性。
 4. 在百人以上公司，分工更加細緻，欄位紀錄與流程更加重要，此次調整了讓跨單位間的流程梳理與溝通方式。
