@@ -1,6 +1,6 @@
 <table>
     <tr>
-        <td>ODOO-14版ERP全模組(製造業運動器材)</td>
+        <td>ODOO-14版ERP全模組(製造業-運動器材)</td>
     </tr>
 </table>
 
