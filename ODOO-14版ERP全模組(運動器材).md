@@ -27,14 +27,16 @@
 ![Alt text](https://github.com/ksharry/Project-sharing-articles.md/blob/main/png/5.2.2.jpg?raw=true)
 8. 製造請求、生管下達計畫派工、採購轉料、採購請求
 ![Alt text](https://github.com/ksharry/Project-sharing-articles.md/blob/main/png/5.2.3.png?raw=true)
-9. 一般事務性申請
+9. 品質檢驗
+![Alt text](https://github.com/ksharry/Project-sharing-articles.md/blob/main/png/5.2.9.png?raw=true)
+10. 一般事務性申請
 ![Alt text](https://github.com/ksharry/Project-sharing-articles.md/blob/main/png/5.2.4.png?raw=true)
-10. 人工/製費由製造工單預估產生。
+11. 人工/製費由製造工單預估產生。
 ![Alt text](https://github.com/ksharry/Project-sharing-articles.md/blob/main/png/5.2.5.png?raw=true)
 ![Alt text](https://github.com/ksharry/Project-sharing-articles.md/blob/main/png/5.2.6.png?raw=true)
-11. 固定資產模組使用
+12. 固定資產模組使用
 ![Alt text](https://github.com/ksharry/Project-sharing-articles.md/blob/main/png/5.2.7.png?raw=true)
-12. 部門與廠別損益表
+13. 部門與廠別損益表
 ![Alt text](https://github.com/ksharry/Project-sharing-articles.md/blob/main/png/5.2.8.png?raw=true)
 
 ## 流程導入
@@ -71,10 +73,10 @@
    + 標準化結帳程序
 
 ## 專案導入後心得
-1. 客戶使用了8年的ODOO經驗，參觀客戶工廠機械手臂透過PLM與MES整合，再透過MES與ODOO的生產系統整合，顯示ODOO在整合的方便性。
-2. 此次有版本升級磨合的經驗，過程中調整了許多項目，在短促的時間，增加了上線的風險，更顯得上機模擬的重要性。
-3. 在百人以上公司，分工更加細緻，欄位紀錄與流程更加重要，此次做了一些更有效率的溝通調整。
-5. 此次盤存制度改變，思考是否有更多中小企業轉換的可能性，期望透過系統自動產生帳務資料，增加會計審查的時間，進而提升系統價值。
-6. 客戶持續的優化，如何把ODOO調整更符合台灣中小企業使用，例如報表的呈現、單據的勾稽、媒體申報的使用。
-7. 上線駐廠資源的安排，Jason與先傑團隊(蘇Sir、Chin與大河)能快速排除A級問題與客製需求，順利達成結帳需求。
+1. 客戶使用8年ODOO經驗，參觀客戶工廠，機械手臂透過PLM與MES整合，ODOO ERP在整合MES，顯示ODOO在整合的架構的便利性。
+2. 此次有版本升級的經驗，過程中調整了許多項目，在短促的時間，增加了上線的風險，更顯得上機模擬的重要性。
+3. 在百人以上公司，分工更加細緻，欄位紀錄與流程更加重要，此次讓跨單位間更有效率的溝通調整。
+4. 此次盤存制度改變，思考是否有更多中小企業轉換的可能性，期望透過系統自動產生帳務資料，增加會計審查的時間，進而提升系統價值。
+5. 客戶持續的優化，如何把ODOO調整更符合台灣中小企業使用，例如報表的呈現、單據的勾稽、媒體申報的使用。
+6. 上線駐廠資源的安排，Jason與先傑團隊(蘇Sir、Chin與大河)能快速排除A級問題與客製需求，順利達成成功上線使用經驗。
 
