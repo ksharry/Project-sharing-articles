@@ -23,8 +23,8 @@
 5. 出貨:兩步
 6. 製造:兩步
 7. IOT整合(機器手臂)、MES整合
-![Alt text](https://github.com/ksharry/Project-sharing-articles.md/blob/main/png/5.2.1.jpg?raw=true)
-![Alt text](https://github.com/ksharry/Project-sharing-articles.md/blob/main/png/5.2.2.jpg?raw=true)
+![Alt text](https://github.com/ksharry/Project-sharing-articles.md/blob/main/png/5.2.1.png?raw=true)
+![Alt text](https://github.com/ksharry/Project-sharing-articles.md/blob/main/png/5.2.2.png?raw=true)
 8. 製造請求、生管下達計畫派工、採購轉料、採購請求
 ![Alt text](https://github.com/ksharry/Project-sharing-articles.md/blob/main/png/5.2.3.png?raw=true)
 9. 品質檢驗
