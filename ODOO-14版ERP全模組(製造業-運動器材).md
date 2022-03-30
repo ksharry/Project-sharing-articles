@@ -22,7 +22,7 @@
 4. 多倉庫
 5. 出貨:兩步
 6. 製造:兩步
-7. 機器手臂透過PLM與MES整合，在與ODOO整合
+7. 機器手臂透過PLM與MES整合，在與ODOO整合(MES也用ODOO製作的)
 
 ![Alt text](https://github.com/ksharry/Project-sharing-articles.md/blob/main/png/5.2.1.png?raw=true)
 ![Alt text](https://github.com/ksharry/Project-sharing-articles.md/blob/main/png/5.2.2.png?raw=true)
