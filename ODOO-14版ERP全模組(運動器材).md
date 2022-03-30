@@ -14,7 +14,7 @@
    + 導入成本模組上線
    + 重新梳理財務流程
 
-![Alt text](https://github.com/ksharry/Project-sharing-articles.md/blob/main/png/4.1.1.png?raw=true)
+![Alt text](https://github.com/ksharry/Project-sharing-articles.md/blob/main/png/5.1.1.png?raw=true)
 ## 上線模組與參數設定
 1. 模組:銷售、採購、製造、庫存、MES、品質、專案、會計
 2. 成本計價:移動平均成本(anglo saxon)
@@ -26,12 +26,12 @@
 ![Alt text](https://github.com/ksharry/Project-sharing-articles.md/blob/main/png/5.2.1.jpg?raw=true)
 ![Alt text](https://github.com/ksharry/Project-sharing-articles.md/blob/main/png/5.2.2.jpg?raw=true)
 8. 製造請求、生管下達計畫派工、採購轉料、採購請求
-![Alt text](https://github.com/ksharry/Project-sharing-articles.md/blob/main/png/5.2.3.jpg?raw=true)
+![Alt text](https://github.com/ksharry/Project-sharing-articles.md/blob/main/png/5.2.3.png?raw=true)
 9. 一般事務性申請
-![Alt text](https://github.com/ksharry/Project-sharing-articles.md/blob/main/png/5.2.4.jpg?raw=true)
+![Alt text](https://github.com/ksharry/Project-sharing-articles.md/blob/main/png/5.2.4.png?raw=true)
 10. 人工/製費由製造工單預估產生。
-![Alt text](https://github.com/ksharry/Project-sharing-articles.md/blob/main/png/5.2.5.jpg?raw=true)
-![Alt text](https://github.com/ksharry/Project-sharing-articles.md/blob/main/png/5.2.6.jpg?raw=true)
+![Alt text](https://github.com/ksharry/Project-sharing-articles.md/blob/main/png/5.2.5.png?raw=true)
+![Alt text](https://github.com/ksharry/Project-sharing-articles.md/blob/main/png/5.2.6.png?raw=true)
 11. 固定資產模組使用
 ![Alt text](https://github.com/ksharry/Project-sharing-articles.md/blob/main/png/5.2.7.png?raw=true)
 12. 部門與廠別損益表
