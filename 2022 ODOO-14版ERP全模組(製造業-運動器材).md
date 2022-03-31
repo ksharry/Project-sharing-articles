@@ -45,7 +45,7 @@
 14. 部門與廠別損益表
 ![Alt text](https://github.com/ksharry/Project-sharing-articles.md/blob/main/png/5.2.8.png?raw=true)
 15. 庫齡分析表
-![Alt text](https://github.com/ksharry/Project-sharing-articles.md/blob/main/png/5.2..png?raw=true)
+![Alt text](https://github.com/ksharry/Project-sharing-articles.md/blob/main/png/5.2.13.png?raw=true)
 
 ## 流程導入
 1. 已製作SOP說明:
