@@ -34,12 +34,15 @@
 ![Alt text](https://github.com/ksharry/Project-sharing-articles.md/blob/main/png/5.2.9.png?raw=true)
 10. 一般事務性申請
 ![Alt text](https://github.com/ksharry/Project-sharing-articles.md/blob/main/png/5.2.4.png?raw=true)
-11. 人工/製費由製造工單預估產生。
+11. 研發專案管理
+![Alt text](https://github.com/ksharry/Project-sharing-articles.md/blob/main/png/5.2.11.png?raw=true)
+![Alt text](https://github.com/ksharry/Project-sharing-articles.md/blob/main/png/5.2.12.png?raw=true)
+12. 人工/製費由製造工單預估產生。
 ![Alt text](https://github.com/ksharry/Project-sharing-articles.md/blob/main/png/5.2.5.png?raw=true)
 ![Alt text](https://github.com/ksharry/Project-sharing-articles.md/blob/main/png/5.2.6.png?raw=true)
-12. 固定資產模組使用
+13. 固定資產模組使用
 ![Alt text](https://github.com/ksharry/Project-sharing-articles.md/blob/main/png/5.2.7.png?raw=true)
-13. 部門與廠別損益表
+14. 部門與廠別損益表
 ![Alt text](https://github.com/ksharry/Project-sharing-articles.md/blob/main/png/5.2.8.png?raw=true)
 
 ## 流程導入
