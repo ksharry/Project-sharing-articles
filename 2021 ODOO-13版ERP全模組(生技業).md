@@ -59,6 +59,7 @@
    + 協助兩個月平行上線，並順利結帳，約10號Netsuit結完後，約15號ODOO結帳完成，虛實科目總額相同，銷貨成本略有差異。
    + 第三個月自行結帳，2021/10月初關心情況後，10/1號試結完成，約10號可完成結帳。
 ![Alt text](https://github.com/ksharry/Project-sharing-articles.md/blob/main/png/3.4.1.png?raw=true)
+![Alt text](https://github.com/ksharry/Project-sharing-articles.md/blob/main/png/3.5.3.png?raw=true)
 ## 專案導入後心得
 1. 優點:
    + 客戶從2021/10月份後，僅支付每個月GCP的雲端費用，非常適合中小企業使用。
