@@ -75,7 +75,7 @@
    + 大型ERP導入流程不太適合導入ODOO，需進行調整，本案課程與個案開發採用較敏捷的方式，設定迭代時間為每周，隨時調整與討論，提前準備，更能掌握專案進度。
    + 客戶使用方面：導入過程相對順利，感謝客戶能內部進行協調，也能相信顧問的專業。
    + 流程建議方面：感謝元植林顧問的火力支援ODOO的諮詢，共同討論的好戰友。
-   + 功能升級方面：此次ODOO增加大型ERP常使用的功能，自身ODOO底層架構觀念也有改進，感謝先傑電腦-Ching與大河的技術諮詢。
+   + 功能升級方面：此次ODOO增加大型ERP常使用的功能，自身ODOO底層架構觀念也有改進，感謝Ching與大河的技術諮詢。
    + 另外附圖-2020年元植技術班精實上課的圖片，推薦此組團隊的課程～
 ![Alt text](https://github.com/ksharry/Project-sharing-articles.md/blob/main/png/3.5.1.jpg?raw=true)
 ![Alt text](https://github.com/ksharry/Project-sharing-articles.md/blob/main/png/3.5.2.jpg?raw=true)
